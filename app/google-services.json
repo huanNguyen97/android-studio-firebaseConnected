@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "588482285737",
+    "firebase_url": "https://testsomethingboring-default-rtdb.asia-southeast1.firebasedatabase.app",
+    "project_id": "testsomethingboring",
+    "storage_bucket": "testsomethingboring.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:588482285737:android:e678246fa8b5835bbc59b8",
+        "android_client_info": {
+          "package_name": "com.example.firebasetesting1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "588482285737-0sgdu5dnqao6osiju7jk1tk1eh0f3ha9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB-mK7n_cnDmi2fF24DzZyIpylQ3OlcI9A"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "588482285737-0sgdu5dnqao6osiju7jk1tk1eh0f3ha9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
